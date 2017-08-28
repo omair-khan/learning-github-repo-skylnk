@@ -8,3 +8,5 @@ Consumer Reports
 Billing Information
 AWP Prices
 Insurance Payouts
+Drug Formularies
+Coverage Benefit Charts
