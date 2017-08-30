@@ -1,4 +1,4 @@
-There are many types of data we can find as a pharmacist.
+weditedThere are many types of data we can find as a pharmacist.
 
 You might see:
 Electronic Health Records - Patient Data
@@ -11,3 +11,4 @@ Insurance Payouts
 Drug Formularies
 Coverage Benefit Charts
 Drug Studies - Randomized Controlled Studies
+dited
